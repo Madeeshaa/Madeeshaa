@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashini Madeesha</h1>
-<h3 align="center">Undergraduate student in Finance and Insurance (Hons) with a passion for Statistics and Data Science</h3>
+<h3 align="center">Undergraduate student in Finance and Insurance (Hons) with a passion for Actuarial Science and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeeshaa&label=Profile%20views&color=0e75b6&style=flat" alt="madeeshaa" /> </p>
 
